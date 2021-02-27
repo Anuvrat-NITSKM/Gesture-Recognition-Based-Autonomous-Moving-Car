@@ -1,4 +1,7 @@
 # Gesture-Recognition-Based-Autonomous-Moving-Car
+
+![WhatsApp Image 2021-02-27 at 20 55 10](https://user-images.githubusercontent.com/74725425/109392692-8ff68680-7943-11eb-999b-d6080cd34552.jpeg)
+
 ## Abstract
 Gesture recognition means response to the change in
 spatial position of a object by the system being
@@ -47,6 +50,8 @@ Dynamic payload length,Automatic Packet handling,Auto Packet transaction handlin
 1:6 star networks.
 
 ## Transmitter
+
+![WhatsApp Image 2021-02-27 at 20 30 47](https://user-images.githubusercontent.com/74725425/109392724-c03e2500-7943-11eb-87df-72d476f52d8b.jpeg)
 
 Pins of nrf24L01 is connected as follows:MOSI of nrf is
 connected to MOSI of Nano and MISO of nrf is
@@ -99,8 +104,13 @@ users gesture.
 
 ## ACCELEROMETER
 
+![WhatsApp Image 2021-02-27 at 20 30 49](https://user-images.githubusercontent.com/74725425/109392753-e06de400-7943-11eb-9fcd-654e9019e056.jpeg)
+
 A sensor with accelerometer (ADXL335) module is used here, which senses the coordinate axis of direction of the
 movements of the hand, then the car starts moving according to the movement of the hand. The ADXL335 is words on the
 principle of Piezoelectric effect on measuring, the static acceleration amounts due to gravity, the ball of the angle tilted at
 with respect to the earth is determined. On sensing the dynamic acceleration amount, the way of moving the car is
 analyzed.
+
+![download](https://user-images.githubusercontent.com/74725425/109392784-08f5de00-7944-11eb-9d0c-4a744f9177d7.jpg)
+
