@@ -104,7 +104,7 @@ users gesture.
 
 ## ACCELEROMETER
 
-![WhatsApp Image 2021-02-27 at 20 30 49](https://user-images.githubusercontent.com/74725425/109392753-e06de400-7943-11eb-9fcd-654e9019e056.jpeg)
+![download](https://user-images.githubusercontent.com/74725425/109392784-08f5de00-7944-11eb-9d0c-4a744f9177d7.jpg)
 
 A sensor with accelerometer (ADXL335) module is used here, which senses the coordinate axis of direction of the
 movements of the hand, then the car starts moving according to the movement of the hand. The ADXL335 is words on the
@@ -112,5 +112,50 @@ principle of Piezoelectric effect on measuring, the static acceleration amounts 
 with respect to the earth is determined. On sensing the dynamic acceleration amount, the way of moving the car is
 analyzed.
 
-![download](https://user-images.githubusercontent.com/74725425/109392784-08f5de00-7944-11eb-9d0c-4a744f9177d7.jpg)
 
+![WhatsApp Image 2021-02-27 at 20 30 49](https://user-images.githubusercontent.com/74725425/109392753-e06de400-7943-11eb-9fcd-654e9019e056.jpeg)
+
+This L298N Motor Driver Module is a high power motor driver module for driving DC and Stepper Motors. This module consists of an L298 motor driver IC and a 78M05 5V regulator. L298N Module can control up to 4 DC motors, or 2 DC motors with directional and speed control.
+
+ 
+
+L298N Module Pin Configuration:
+Pin Name
+
+Description
+
+IN1 & IN2
+
+Motor A input pins. Used to control the spinning direction of Motor A
+
+IN3 & IN4
+
+Motor B input pins. Used to control the spinning direction of Motor B
+
+ENA
+
+Enables PWM signal for Motor A
+
+ENB
+
+Enables PWM signal for Motor B
+
+OUT1 & OUT2
+
+Output pins of Motor A
+
+OUT3 & OUT4
+
+Output pins of Motor B
+
+12V
+
+12V input from DC power Source
+
+5V
+
+Supplies power for the switching logic circuitry inside L298N IC
+
+GND
+
+Ground pin
