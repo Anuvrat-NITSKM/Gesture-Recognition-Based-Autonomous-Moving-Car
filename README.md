@@ -1,4 +1,4 @@
-# Gesture-Recognition-Based-Autonomous-Moving-Car
+# Gesture Recognition Based Autonomous Moving Car
 
 ![WhatsApp Image 2021-02-27 at 20 55 10](https://user-images.githubusercontent.com/74725425/109392692-8ff68680-7943-11eb-999b-d6080cd34552.jpeg)
 
